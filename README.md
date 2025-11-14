@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## Features.
+## Features
 
 - Local HTTP/HTTPS/SOCKS server with authentication support
 - VMess, Shadowsocks, Trojan, Snell protocol support for remote connections
