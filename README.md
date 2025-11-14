@@ -38,7 +38,7 @@
 - Match your tunnel by [Script](https://github.com/Dreamacro/clash/wiki/premium-core-features#script)
 - [Rule Provider](https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers)
 
-## Getting Started
+## Getting Started-test
 Documentations are now moved to [GitHub Wiki](https://github.com/Dreamacro/clash/wiki).
 
 ## Premium Release
