@@ -29,7 +29,7 @@
 - Rules based off domains, GEOIP, IPCIDR or Process to forward packets to different nodes
 - Remote groups allow users to implement powerful rules. Supports automatic fallback, load balancing or auto select node based off latency
 - Remote providers, allowing users to get node lists remotely instead of hardcoding in config
-- Netfilter TCP redirecting. Deploy Clash on your Internet gateway with `iptables`.
+- Netfilter TCP redirecting. Deploy Clash on your Internet gateway with `iptables`..
 - Comprehensive HTTP RESTful API controller
 
 ## Premium Features
